@@ -1,4 +1,4 @@
-package com.book.chapter.six;
+package org.process;
 
 import com.book.chapter.four.AbstractBufferedImageOp;
 

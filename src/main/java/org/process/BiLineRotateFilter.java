@@ -1,4 +1,4 @@
-package com.book.chapter.seven;
+package org.process;
 
 import java.awt.Color;
 import java.awt.image.BufferedImage;

@@ -1,4 +1,4 @@
-package com.book.chapter.three;
+package org.ui;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
@@ -18,6 +18,11 @@ import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
+/**
+ * 
+ * @author tonykuo
+ *
+ */
 public class MainUI extends JFrame implements ActionListener {
 
     /**
